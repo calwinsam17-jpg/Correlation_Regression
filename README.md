@@ -89,6 +89,7 @@ plt.show()
 # Output
 <img width="909" height="635" alt="image" src="https://github.com/user-attachments/assets/daac666f-d64b-45a4-8ebe-48a89d62590a" />
 
+https://github.com/calwinsam17-jpg/Correlation_Regression/edit/main/README.md
 # Result
 
 The correction and regression for data analysis of objects from feeder using probability distribution are calculated
